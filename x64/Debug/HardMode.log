@@ -1,0 +1,7 @@
+﻿  HardMode.cpp
+D:\Desktop\C-PROJECT\狼组项目1.4版本\rand.h(17,52): warning C4244: “参数”: 从“DWORDLONG”转换到“unsigned int”，可能丢失数据
+D:\Desktop\C-PROJECT\狼组项目1.4版本\HardMode.cpp(625,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\C-PROJECT\狼组项目1.4版本\HardMode.cpp(1015,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\C-PROJECT\狼组项目1.4版本\HardMode.cpp(1167,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\C-PROJECT\狼组项目1.4版本\HardMode.cpp(941): warning C4715: “BreakGame”: 不是所有的控件路径都返回值
+  HardMode.vcxproj -> D:\Desktop\C-PROJECT\狼组项目1.4版本\x64\Debug\HardMode.exe
